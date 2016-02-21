@@ -15,4 +15,8 @@ public class TelescopeDesign {
 	{
 		
 	}
+	private void anotherMethod()
+	{
+		
+	}
 }
