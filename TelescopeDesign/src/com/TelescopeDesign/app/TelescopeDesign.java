@@ -10,4 +10,9 @@ public class TelescopeDesign {
 	
 		
 	}
+	
+	private void newMethod()
+	{
+		
+	}
 }
