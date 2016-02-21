@@ -13,7 +13,7 @@ public class TelescopeDesign {
 	
 	private void newMethod()
 	{
-		
+		  
 	}
 	private void anotherMethod()
 	{
